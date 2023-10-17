@@ -28,7 +28,7 @@ function startup() {
 	color2.value = defaultColor2;
 	color2.select();
 
-//PUT THE CODE WHEN THE PAGE IS LOADED
+//PUT THE RIGHT CODE WHEN THE PAGE IS LOADED
   	body.style.background = 
 	"linear-gradient(to right, " + color1.value + ", " + color2.value + ")";
 
